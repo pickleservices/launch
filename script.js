@@ -7,7 +7,7 @@ function createPickel() {
   iframe.style.width = '100%';
   iframe.style.height = '100%';
   iframe.style.margin = '0';
-  iframe.src = 'https://pixels-23lbsrhfb-pickleservices1s-projects.vercel.app/';
+  iframe.src = 'https://pixels-one.vercel.app/';
   win.document.body.appendChild(iframe);
   }
 
